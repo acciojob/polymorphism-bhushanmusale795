@@ -1,20 +1,6 @@
 package com.driver;
 
-// Main.java
 
-// Main.java
-
-// Main.java
-
-// Main.java
-
-// Main.java
-
-// Main.java
-
-// Main.java
-
-// Main.java
 
 public class Main {
 
